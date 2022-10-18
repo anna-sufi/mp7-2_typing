@@ -1,0 +1,20 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1459478309853-2c33a60058e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-color: brown;
+}
+
+
+#par {
+    font-family: 'Alfa Slab One', cursive;
+    color:rgb(236, 241, 131);
+    -webkit-text-stroke: 4px rgb(7, 80, 13);
+    font-size: 80px;
+    
+    margin-top: 200px;
+    text-align: center;
+
+}
